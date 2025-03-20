@@ -26,7 +26,7 @@
 ####    pip install pygame
 
    ##  Install
-####    python main.py
+####    python project.py
    ##  Test pytest
 ####    test_project.py
 
